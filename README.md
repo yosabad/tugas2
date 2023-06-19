@@ -25,4 +25,4 @@ The dataset contains 21 attributes as follows:
 - wifi : Has wifi or not
 - price_range : This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
 
-From this project, the model which has highest accuracy is Random Forest Classifier with tuned hyperparameter which got 87.99% accuracy.
+From this project, the model which got highest accuracy, 87.99%, is Random Forest Classifier with tuned hyperparameter.
